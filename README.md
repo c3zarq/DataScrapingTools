@@ -1,2 +1,2 @@
 # DataScrapingTools
-Ferramentas em Python para raspagem de dados de imóveis, hospedagens, compras e notícias
+Ferramentas em Python para raspagem de dados de sites.
