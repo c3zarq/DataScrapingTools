@@ -7,3 +7,6 @@ Scripts em Python para extrair e organizar dados de sites de imóveis, hospedage
 - **Hospedagem**: Extrai informações para análise.
 - **Notícias**: Captura e estrutura conteúdo de portais.
 - **Compras**: Extrai informações de produtos para análise.
+
+## Status
+Em desenvolvimento.
